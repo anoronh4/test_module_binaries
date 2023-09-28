@@ -1,0 +1,1 @@
+echo script d output

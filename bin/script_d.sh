@@ -1,0 +1,1 @@
+../another_bin/script_d.sh
