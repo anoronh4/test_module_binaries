@@ -1,0 +1,10 @@
+- name: run_test_a
+  command: nextflow run ./main.nf -entry a
+  tags:
+    - test_a
+  exit_code: 0
+- name: run_test_b
+  command: nextflow run ./main.nf -entry b
+  tags:
+    - test_b
+  exit_code: 0
